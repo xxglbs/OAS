@@ -3,3 +3,4 @@ oooooooooooooooo
 hello world oa1
 hello world oa2
 hello world oa3
+hello world oa4 --local
