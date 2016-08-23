@@ -5,3 +5,4 @@ hello world oa2
 hello world oa3
 hello world oa4 --local
 hello OK --glday/oas
+hello 10101001001---
