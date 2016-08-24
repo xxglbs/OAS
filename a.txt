@@ -1,9 +1,3 @@
-aaaaaaaaaaaaaaaa
-oooooooooooooooo
-hello world oa1
-hello world oa2
-hello world oa3
-hello world oa4 --local
-hello OK --glday/oas
-local -------
-hello 10101001001--
+	public static void main(String[] args) {
+		System.out.println("Linux test...");
+	}
